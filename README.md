@@ -14,6 +14,9 @@ Resources created:
 - Cloud Armor with WAF rules and Rate limit
 
 
+## Click to Deploy
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/fellipeamedeiros/gcp-cloud-armor&shellonly=true&cloudshell_image=gcr.io/ds-artifacts-cloudshell/deploystack_custom_image)
+
 ## Deploy
 1. Create a new project and select it.
 
