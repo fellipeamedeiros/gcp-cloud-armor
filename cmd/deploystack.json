@@ -1,0 +1,19 @@
+{	
+	"title":"Cloud Armor",
+	"duration":5,
+	"documentation_link": "https://github.com/fellipeamedeiros/gcp-cloud-armor/",
+	"collect_project": true,
+	"collect_region": true,
+	"custom_settings": [
+		{
+		  "name": "Roles",
+		  "description": "Please choose the role that you need for this project",
+		  "options": [
+				"roles/reviewer|Project Reviewer",
+				"roles/owner|Project Owner",
+				"roles/vison.reader|Cloud Vision Reader"
+		  ],
+		  "default" : "roles/owner"
+		}
+	  ]
+}
