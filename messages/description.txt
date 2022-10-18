@@ -1,0 +1,4 @@
+This process will configure and create the following: 
+	* VPC with firewall rules
+	* Managed Instance Group
+	* Cloud Armor with WAF rules and Rate limit
